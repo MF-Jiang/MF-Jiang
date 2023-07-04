@@ -22,8 +22,6 @@ If you're interested in my projects or have any questions, suggestions, or colla
 [![trophy](https://github-profile-trophy.vercel.app/?username=MF-Jiang)](https://github.com/ryo-ma/github-profile-trophy) \
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF-Jiang)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-## 联系方式 | Contact Me
+非常感谢您的关注和支持！谢谢！🙏
 
-如果您对我的项目或有任何问题、建议或合作机会感兴趣，请随时与我联系。
-
-If you're interested in my projects or have any questions, suggestions, or collaboration opportunities, feel free to get in touch with me.
+Thank you very much for your attention and support! Thank you! 🙏
