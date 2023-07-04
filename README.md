@@ -12,6 +12,18 @@ Hello! I'm MF-Jiang, a student passionate about coding and open-source projects.
 - 🌱 I’m learning Computer Science with Artificial Intelligence in University of Nottingham Ningbo China. | 现就读于宁波诺丁汉大学计算机与人工智能
 - 💞️ I'm eager to be stronger. | 变得更强
 
+## 技术栈 | Tech Stack
+
+在我的开发旅程中，我掌握了以下技术栈：
+
+Throughout my development journey, I've acquired expertise in the following tech stack:
+
+- 编程语言 | Programming Languages: Python, JavaScript, Java, C\C++, C#
+- 前端开发 | Front-end Development: HTML, CSS, React
+- 后端开发 | Back-end Development: Node.js, Django, Spring Boot, Flask
+- 数据库 | Databases: MySQL, MongoDB, SQLite, SQL Server
+- 工具和框架 | Tools & Frameworks: Git, Docker, Vue.js
+
 ## 联系方式 | Contact Me
 如果您对我的项目或有任何问题、建议或合作机会感兴趣，请随时与我联系。
 If you're interested in my projects or have any questions, suggestions, or collaboration opportunities, feel free to get in touch with me.
