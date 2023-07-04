@@ -34,7 +34,7 @@ Throughout my development journey, I've acquired expertise in the following tech
 - 前端开发 | Front-end Development: HTML, CSS, React
 - 后端开发 | Back-end Development: Node.js, Django, Spring Boot, Flask
 - 数据库 | Databases: MySQL, MongoDB, SQLite, SQL Server
-- 工具和框架 | Tools & Frameworks: Git, Docker, Vue.js
+- 工具和框架 | Tools & Frameworks: Git, Docker, Vue.js, Taro
 
 ## 联系方式 | Contact Me
 如果您对我的项目或有任何问题、建议或合作机会感兴趣，请随时与我联系。
