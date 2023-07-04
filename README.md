@@ -13,7 +13,7 @@ Hello! I'm MF-Jiang, a student passionate about coding and open-source projects.
 - 💞️ I'm eager to be stronger. | 变得更强
 - 📫 My email is shujun2002@outlook.com | 我的邮箱是shujun2002@outlook.com
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=MF-Jiang)](https://github.com/ryo-ma/github-profile-trophy)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats) \
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats) \
+[![trophy](https://github-profile-trophy.vercel.app/?username=MF-Jiang)](https://github.com/ryo-ma/github-profile-trophy) \
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF-Jiang)](https://github.com/DenverCoder1/github-readme-streak-stats)
