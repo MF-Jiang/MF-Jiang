@@ -15,6 +15,5 @@ Hello! I'm MF-Jiang, a student passionate about coding and open-source projects.
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MF-Jiang)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MF-Jiang)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF-Jiang)](https://github.com/DenverCoder1/github-readme-streak-stats)
