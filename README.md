@@ -13,6 +13,11 @@ Hello! I'm MF-Jiang, a student passionate about coding and open-source projects.
 - 💞️ I'm eager to be stronger. | 变得更强
 - 😄 I'm a huge anime fan, and I have to say "Dangerous Thing in My Heart" this April was really good! Hahaha. | 我是一个超级动漫迷，不得不说今年四月的《我心里危险的东西》真好看呀，哈哈哈。
 
+<div>
+  <img src="Picture/DangerHeart.jpg" alt="DangerHeart" style="float: left; margin-right: 10px;">
+  <img src="Picture/DangerHeart1.jpg" alt="DangerHeart1" style="float: left;">
+</div>
+
 ## 技术栈 | Tech Stack
 
 在我的开发旅程中，我掌握了以下技术栈：
