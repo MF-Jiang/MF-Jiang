@@ -11,9 +11,19 @@ Hello! I'm MF-Jiang, a student passionate about coding and open-source projects.
 - 👀 I am an Undergraduate student from China. | 来自中国本科
 - 🌱 I’m learning Computer Science with Artificial Intelligence in University of Nottingham Ningbo China. | 现就读于宁波诺丁汉大学计算机与人工智能
 - 💞️ I'm eager to be stronger. | 变得更强
+
+## 联系方式 | Contact Me
+如果您对我的项目或有任何问题、建议或合作机会感兴趣，请随时与我联系。
+If you're interested in my projects or have any questions, suggestions, or collaboration opportunities, feel free to get in touch with me.
 - 📫 My email is shujun2002@outlook.com | 我的邮箱是shujun2002@outlook.com
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats) \
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats) \
 [![trophy](https://github-profile-trophy.vercel.app/?username=MF-Jiang)](https://github.com/ryo-ma/github-profile-trophy) \
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF-Jiang)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+## 联系方式 | Contact Me
+
+如果您对我的项目或有任何问题、建议或合作机会感兴趣，请随时与我联系。
+
+If you're interested in my projects or have any questions, suggestions, or collaboration opportunities, feel free to get in touch with me.
