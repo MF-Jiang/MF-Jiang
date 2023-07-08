@@ -3,7 +3,7 @@
 
 ## 关于我 | About Me
 
-你好！我是秋绿，一个热爱编程和开源项目的开发学生。非常高兴您来到我的 GitHub 主页。在这里，我将分享一些关于编程、开发技术和其他有趣的项目。
+你好！我是秋绿，一个热爱编程和开源项目的学生。非常高兴您来到我的 GitHub 主页。在这里，我将分享一些关于编程、开发技术和其他有趣的项目。
 
 Hello! I'm MF-Jiang, a student passionate about coding and open-source projects. I'm thrilled to have you visit my GitHub page. Here, I'll be sharing some insights about programming, development technologies, and other interesting projects.
 
