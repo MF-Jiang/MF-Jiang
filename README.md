@@ -37,10 +37,19 @@ Throughout my development journey, I've acquired expertise in the following tech
 - 工具和框架 | Tools & Frameworks: Git, Docker, Vue.js, Taro
 
 ## 学习过的课程 | Courses Taken
-![机器学习](https://s3.amazonaws.com/coursera_assets/meta_imag…P83474/CERTIFICATE_LANDING_PAGE~VQENELP83474.jpeg)
-![数据科学](https://s3.amazonaws.com/coursera_assets/meta_imag…B229XQ/CERTIFICATE_LANDING_PAGE~H49SMSB229XQ.jpeg)
-![医学软件](https://s3.amazonaws.com/coursera_assets/meta_imag…GLYEB6/CERTIFICATE_LANDING_PAGE~EJBLJ9GLYEB6.jpeg)
-
+<table>
+  <tr>
+    <td>
+      <img src="Picture/CERTIFICATE_LANDING_PAGE~VQENELP83474.jpeg" alt="Machine Learning" width="400px">
+    </td>
+    <td>
+      <img src="Picture/CERTIFICATE_LANDING_PAGE~H49SMSB229XQ.jpeg" alt="Data Science" width="400px">
+    </td>
+    <td>
+      <img src="Picture/CERTIFICATE_LANDING_PAGE~EJBLJ9GLYEB6.jpeg" alt="Yale" width="400px">
+    </td>
+  </tr>
+</table>
 
 
 ## 联系方式 | Contact Me
