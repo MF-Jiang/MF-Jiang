@@ -40,13 +40,13 @@ Throughout my development journey, I've acquired expertise in the following tech
 <table>
   <tr>
     <td>
-      <img src="Picture/CERTIFICATE_LANDING_PAGE~VQENELP83474.jpeg" alt="Machine Learning" width="400px">
+      <img src="Picture/CERTIFICATE_LANDING_PAGE~VQENELP83474.png" alt="Machine Learning" width="400px">
     </td>
     <td>
-      <img src="Picture/CERTIFICATE_LANDING_PAGE~H49SMSB229XQ.jpeg" alt="Data Science" width="400px">
+      <img src="Picture/CERTIFICATE_LANDING_PAGE~H49SMSB229XQ.png" alt="Data Science" width="400px">
     </td>
     <td>
-      <img src="Picture/CERTIFICATE_LANDING_PAGE~EJBLJ9GLYEB6.jpeg" alt="Yale" width="400px">
+      <img src="Picture/CERTIFICATE_LANDING_PAGE~EJBLJ9GLYEB6.png" alt="Yale" width="400px">
     </td>
   </tr>
 </table>
