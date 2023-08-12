@@ -36,6 +36,13 @@ Throughout my development journey, I've acquired expertise in the following tech
 - 数据库 | Databases: MySQL, MongoDB, SQLite, SQL Server
 - 工具和框架 | Tools & Frameworks: Git, Docker, Vue.js, Taro
 
+## 学习过的课程 | Courses Taken
+![机器学习](https://s3.amazonaws.com/coursera_assets/meta_imag…P83474/CERTIFICATE_LANDING_PAGE~VQENELP83474.jpeg)
+![数据科学](https://s3.amazonaws.com/coursera_assets/meta_imag…B229XQ/CERTIFICATE_LANDING_PAGE~H49SMSB229XQ.jpeg)
+![医学软件](https://s3.amazonaws.com/coursera_assets/meta_imag…GLYEB6/CERTIFICATE_LANDING_PAGE~EJBLJ9GLYEB6.jpeg)
+
+
+
 ## 联系方式 | Contact Me
 如果您对我的项目或有任何问题、建议或合作机会感兴趣，请随时与我联系。
 If you're interested in my projects or have any questions, suggestions, or collaboration opportunities, feel free to get in touch with me.
