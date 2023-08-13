@@ -65,5 +65,3 @@ If you're interested in my projects or have any questions, suggestions, or colla
 非常感谢您的关注和支持！谢谢！🙏
 
 Thank you very much for your attention and support! Thank you! 🙏
-
-![](https://raw.githubusercontent.com/MF-Jiang/MF-Jiang/main/assets/github-contribution-grid-snake.svg)
