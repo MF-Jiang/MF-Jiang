@@ -16,10 +16,10 @@ Hello! I'm MF-Jiang, a student passionate about coding and open-source projects.
 <table>
   <tr>
     <td>
-      <img src="Picture/DangerHeart.jpg" alt="DangerHeart" width="300px">
+      <img src="Picture/DangerHeart.jpg" alt="DangerHeart" width="150px">
     </td>
     <td>
-      <img src="Picture/DangerHeart1.jpg" alt="DangerHeart1" width="300px">
+      <img src="Picture/DangerHeart1.jpg" alt="DangerHeart1" width="150px">
     </td>
   </tr>
 </table>
