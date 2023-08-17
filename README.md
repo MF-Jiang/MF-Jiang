@@ -60,8 +60,6 @@ If you're interested in my projects or have any questions, suggestions, or colla
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats) 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=MF-Jiang)](https://github.com/ryo-ma/github-profile-trophy) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF-Jiang)](https://github.com/DenverCoder1/github-readme-streak-stats)
