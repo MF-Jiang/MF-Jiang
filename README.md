@@ -60,7 +60,7 @@ If you're interested in my projects or have any questions, suggestions, or colla
 | <img align="center" src="https://readme-stats.clckblog.space/api?username=MF-Jiang&theme=tokyonight&show_icons=true&count_private=true" alt="Jiang's github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MF-Jiang&include_all_commits=true&hide_border=true&theme=dark" /> | <img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=MF-Jiang&show_icons=true&theme=radical&langs_count=10&layout=compact" /> |
 | ------------- | ------------- | ------------- |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MF-Jiang)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MF-Jiang&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) 
 
 非常感谢您的关注和支持！谢谢！🙏
 
