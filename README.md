@@ -56,19 +56,14 @@ Throughout my development journey, I've acquired expertise in the following tech
 如果您对我的项目或有任何问题、建议或合作机会感兴趣，请随时与我联系。
 If you're interested in my projects or have any questions, suggestions, or collaboration opportunities, feel free to get in touch with me.
 - 📫 My email is shujun2002@outlook.com | 我的邮箱是shujun2002@outlook.com
-<table>
-  <tr>
-    <td>
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats) 
-    </td>
-    <td>
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats) 
-    </td>
-    <td>
-      [![trophy](https://github-profile-trophy.vercel.app/?username=MF-Jiang)](https://github.com/ryo-ma/github-profile-trophy) 
-    </td>
-  </tr>
-</table>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Jiang)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MF-Jiang)](https://github.com/ryo-ma/github-profile-trophy) 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MF-Jiang)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 非常感谢您的关注和支持！谢谢！🙏
