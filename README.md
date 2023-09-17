@@ -13,18 +13,6 @@ Hello! I'm MF-Jiang, a student passionate about coding and open-source projects.
 - 👀 I am an Undergraduate student from China. | 来自中国本科
 - 🌱 I’m learning Computer Science with Artificial Intelligence in University of Nottingham Ningbo China. | 现就读于宁波诺丁汉大学计算机与人工智能
 - 💞️ I'm eager to be stronger. | 变得更强
-- 😄 I'm a huge anime fan, and I have to say "Dangerous Thing in My Heart" this April was really good! Hahaha. | 我是二次元，不得不说今年四月的《我心里危险的东西》真好看呀，哈哈哈。
-
-<table>
-  <tr>
-    <td>
-      <img src="Picture/DangerHeart.jpg" alt="DangerHeart" width="300px">
-    </td>
-    <td>
-      <img src="Picture/DangerHeart1.jpg" alt="DangerHeart1" width="300px">
-    </td>
-  </tr>
-</table>
 
 ## Tech Stack | 技术栈
 
